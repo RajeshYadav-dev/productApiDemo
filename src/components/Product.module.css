@@ -1,0 +1,12 @@
+
+.gapping{
+  margin: 20px;
+}
+
+.plist{
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(4,2fr);
+
+}
+
